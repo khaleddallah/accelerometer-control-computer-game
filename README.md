@@ -1,6 +1,6 @@
-## Mobile accelerometer to control computer car games :
-1. mobile read accelerometer value and send it to computer throw Udp protocol
-2. computer take the value of accelerometer and decide the direction then simulate the convenient key from keyboard
+## Mobile accelerometer to control computer race games :
+1. mobile read accelerometer value (x,y,z angle value) and send it to computer throw Udp protocol
+2. computer take the value of accelerometer and decide the direction then simulate the convenient key (a,s,d,w) from keyboard.  
 
 ## technical review :  
 - in computer section (labview program) : there is Udp server and keyboard simulator .  
