@@ -2,7 +2,7 @@
 1. mobile read accelerometer value (x,y,z angle value) and send it to computer throw Udp protocol
 2. computer take the value of accelerometer and decide the direction then simulate the convenient key (a,s,d,w) from keyboard.  
 
-## technical review :  
+## technically :  
 - in computer section (labview program) : there is Udp server and keyboard simulator .  
 - in mobile section (android app) : there is accelerometer reader and Udp client .     
 
